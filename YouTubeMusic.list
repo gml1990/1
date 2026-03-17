@@ -1,4 +1,5 @@
-HOST,music.youtube.com
-HOST,s.youtube.com
-HOST,oauthaccountmanager.googleapis.com
-HOST,youtubei.googleapis.com
+host, oauthaccountmanager.googleapis.com
+#host-suffix, s.youtube.com
+host, youtubei.googleapis.com
+host-suffix, music.youtube.com
+
