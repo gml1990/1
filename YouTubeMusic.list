@@ -1,5 +1,4 @@
 host, oauthaccountmanager.googleapis.com
 #host-suffix, s.youtube.com
 host, youtubei.googleapis.com
-host-suffix, music.youtube.com
-
+#host-suffix, music.youtube.com
