@@ -1,0 +1,9 @@
+# 圈x直播8 去广告规则 20260327
+# 自家广告服务器IP
+IP-CIDR,118.178.168.156/32,reject
+# 直播吧广告接口
+DOMAIN-SUFFIX,api.zhibo8.com,reject
+# 穿山甲广告
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,reject
+# 腾讯广点通广告
+DOMAIN-SUFFIX,gdt.qq.com,reject
