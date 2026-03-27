@@ -1,5 +1,6 @@
 # 圈x直播8 去广告规则 20260327
 # 自家广告服务器IP
+IP-CIDR,47.99.237.245/32,reject
 IP-CIDR,118.178.168.156/32,reject
 # 直播吧广告接口
 DOMAIN-SUFFIX,api.zhibo8.com,reject
